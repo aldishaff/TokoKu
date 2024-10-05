@@ -1,1 +1,4 @@
 # TokoKu
+
+Link desain figma : https://www.figma.com/design/RBrWwGsxmttuibqoGASbUS/Peg.Web-Kelompok?node-id=0-1&t=rsJpYoxDGSi2hCOJ-1
+Link video presentasi : https://drive.google.com/drive/folders/18B6pir_GP0_O7IjFWJ4_kyNXkv-h1PWC?usp=sharing
